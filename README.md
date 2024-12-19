@@ -12,4 +12,4 @@ So with these simple rules, and a starting string of `MI`, your goal is to try t
 
 I plan to have a few different styles of automatic theorem generator, and then a manual one where you can make them by specifying the rule to apply. It'll be interesting, I think.
 
-For now it's pretty bad, but I'm experimenting with order to make more variety of theorems. Right now it applies 2 rules and then infinitely applies Rule 2 because that's the way I wrote it. For now at least. Anyway, have fun with this, and if you think of a better implementation, feel free to make a PR.
+Currently it's pretty bad, but I'm experimenting with order to make more variety of theorems. Right now it applies 2 rules and then infinitely applies Rule 2 because that's the way I wrote it. For now at least. Anyway, have fun with this, and if you think of a better implementation, feel free to make a PR.
