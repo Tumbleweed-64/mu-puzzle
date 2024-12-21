@@ -36,6 +36,8 @@ int main() {
         }
         else if (findTripleI != MU.end()) {
             std::cout << "Applying Rule 3\n";
+            // yikes forgot to replace with "I"
+            // I'm still figuring out how to do this, vector functions are hilarious
             MU.erase(MU.begin()+*findTripleI, MU.begin()+(*findTripleI+2));
             printVec(MU);
         }
