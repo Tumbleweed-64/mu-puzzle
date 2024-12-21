@@ -1,6 +1,8 @@
 #pragma once
 
-// As the file name says, this just contains some various vector functions I made for the purposes of this project.
+// As the file name indicates, this header just contains some various 
+// vector functions I made for the purposes of this project.
+
 void printVec(std::vector<char> vec) {
     for (int i = 0; i<vec.size(); i++) {
         std::cout << vec[i];
